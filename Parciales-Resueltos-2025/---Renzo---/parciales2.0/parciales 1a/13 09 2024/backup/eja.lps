@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="eja.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="129" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="31" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="38" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="39" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="28" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="30" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="31" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="35" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="36" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="38" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="39" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="28" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="41" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="42" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="43" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="45" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="46" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="47" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="49" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="50" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="19" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="21" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="22" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="24" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="25" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="26" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="eja.lpr"/>
+        <Caret Line="61" Column="14" TopLine="39"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,4 @@
+trigo     95
+maiz      83
+trigo     123
+soja      114

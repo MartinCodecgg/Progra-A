@@ -1,0 +1,5 @@
+abcd S 1 3 300
+abcd S 1 5 400
+bcde M 2 2 500
+cdef L 3 1 600
+cdef X 4 10 700

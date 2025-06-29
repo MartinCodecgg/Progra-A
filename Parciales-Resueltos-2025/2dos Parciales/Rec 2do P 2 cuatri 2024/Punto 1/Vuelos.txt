@@ -1,0 +1,3 @@
+aaa bbb 10
+bbb ccc 10
+aaa ccc 1000

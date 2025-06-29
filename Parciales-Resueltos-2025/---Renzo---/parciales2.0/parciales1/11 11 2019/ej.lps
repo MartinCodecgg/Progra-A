@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="65"/>
+        <CursorPos X="29" Y="81"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="45" Column="12" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="89" Column="5" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="100" Column="27" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="91" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="92" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="93" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="94" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="96" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="97" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="98" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="99" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="100" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="101" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="99" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="100" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="99" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="100" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="99" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="102" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="103" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="104" TopLine="87"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

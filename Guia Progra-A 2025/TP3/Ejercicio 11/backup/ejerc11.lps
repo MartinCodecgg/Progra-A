@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc11.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="75" Y="31"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="27" Column="25" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="23" Column="18" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="20" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="21" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="28" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="18" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc11.lpr"/>
+        <Caret Line="31" TopLine="14"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

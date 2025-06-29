@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc8V2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="266"/>
+        <CursorPos X="50" Y="277"/>
+        <FoldState Value=" TCZF61 T3i90T2 PjSiJ0;"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="155" Column="43" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="101" Column="23" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="155" Column="76" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="152" Column="122" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="129" Column="47" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="131" Column="51" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="132" Column="32" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="137" Column="17" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="166" Column="79" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="162" Column="41" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="158" Column="39" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="233" Column="41" TopLine="225"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V2.lpr"/>
+        <Caret Line="84" Column="62" TopLine="34"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

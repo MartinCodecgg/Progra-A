@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="41"/>
+        <CursorPos X="52" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="ejerc5.lpr"/>
+        <Caret Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc5.lpr"/>
+        <Caret Line="44" Column="28" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc5.lpr"/>
+        <Caret Line="41" Column="35" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc5.lpr"/>
+        <Caret Line="47" Column="35" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

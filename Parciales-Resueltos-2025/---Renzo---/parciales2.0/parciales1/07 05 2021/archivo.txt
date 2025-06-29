@@ -1,0 +1,10 @@
+Lopez Juan. 10 5 2 1
+Garcia María. 7 3 4 2
+Rodriguez Ana. 5 8 1 3
+Fernandez Luca. 3 2 5 0
+Gutierrez Sofia. 6 6 2 2
+Martinez Pedro. 4 3 3 1
+Perez Lucia. 9 1 7 0
+Sanchez Marta. 2 9 3 1
+Ramirez Tomas. 8 4 4 2
+Romero Camila. 10 10 1 4

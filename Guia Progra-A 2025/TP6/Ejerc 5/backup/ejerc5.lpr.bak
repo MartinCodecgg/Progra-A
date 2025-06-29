@@ -1,0 +1,58 @@
+program ejerc5;
+
+const TOP=100;
+
+type
+    TMT = array[1..TOP,1..TOP] of real;
+    TV = array[1..TOP] of byte;
+
+Function Buscar(Vcli:TV; n,cli:byte):byte;
+var
+   i:byte;
+begin
+     i:=1;
+     while (i<n) and (cli <> Vcli[i]) do
+           i:=i+1;
+     if cli = Vcli[i] then
+        buscar:=i
+     else
+         buscar:=0;
+end;
+
+Procedure Leer(var mt:TMT; var n:byte; var Vcli:TV);
+var
+   arch:text;
+   m,cli,tipo,pos:byte;
+   monto:real;
+begin
+     assign(arch,'datos.txt'); reset(arch);
+     n:=0;
+     while not eof(arch) do
+           begin
+                n:=n+1;
+                read(arch,cli,tipo,monto);
+                pos:=buscar(Vcli,n,cli);
+
+                if pos=0 then
+                   begin
+                        n:=n+1;
+                        Vcli[n]:=cli;
+                        mt[n,1]:=0;
+                        mt[n,2]:=0;
+                        mt[n,3]:=0;
+                        mt[n,4]:=0;
+                        mt[n,tipo]:=monto;
+                   end
+                else
+                    mt[n,top:=mt[n,top]+ monto;
+           end;
+end;
+
+var
+   mt:TMT; Vcli:TV; n:byte;
+begin
+     Leer(mt,n,Vcli);
+     InciA(
+
+end.
+

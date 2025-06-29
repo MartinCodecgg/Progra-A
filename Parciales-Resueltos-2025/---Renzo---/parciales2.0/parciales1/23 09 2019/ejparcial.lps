@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejparcial.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="113"/>
+        <CursorPos X="100" Y="131"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="92" Column="74" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="37" Column="40" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="36" Column="34" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="67" Column="19" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="56" Column="28" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="88" Column="24" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="10" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="138" Column="12" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="79" Column="36" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="3" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="39" Column="27" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ejparcial.lpr"/>
+        <Caret Line="133" Column="45" TopLine="118"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

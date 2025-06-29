@@ -1,0 +1,16 @@
+readln(arch,cad2,c,x);
+readln(arch,a);
+readln(arch,cad1);
+
+readln(arch,cad3,cad2);
+readln(arch,x);
+readln(arch,a);
+
+readln(arch,cad1,cad3);
+readln(arch,c,cad2,b);
+
+readln(arch);
+readln(arch,cad1)
+readln(arch,x);
+
+

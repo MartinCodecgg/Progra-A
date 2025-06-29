@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\defin\Documents\Archivos Github\Parciales-Resueltos-2025\3erParcial\1cuatri 2024\lib\x86_64-win64&quot; &quot;-FuC:\Users\defin\Documents\Archivos Github\Parciales-Resueltos-2025\3erParcial\1cuatri 2024\&quot; &quot;-FUC:\Users\defin\Documents\Archivos Github\Parciales-Resueltos-2025\3erParcial\1cuatri 2024\lib\x86_64-win64\&quot; &quot;-FEC:\Users\defin\Documents\Archivos Github\Parciales-Resueltos-2025\3erParcial\1cuatri 2024\&quot; &quot;-oC:\Users\defin\Documents\Archivos Github\Parciales-Resueltos-2025\3erParcial\1cuatri 2024\parcial.exe&quot; parcial.lpr"/>
+</CONFIG>

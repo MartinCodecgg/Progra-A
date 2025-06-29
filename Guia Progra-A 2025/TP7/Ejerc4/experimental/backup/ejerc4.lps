@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="18" Y="68"/>
+        <FoldState Value=" TC6E3 T3D0M1Y"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="100" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="101" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="100" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="101" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="100" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="103" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="102" Column="40" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="95" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="71" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="72" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="74" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="75" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="72" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="78" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="79" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="80" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="101" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="95" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="71" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="72" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="74" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="75" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="72" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="78" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="79" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="80" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="89" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc4.lpr"/>
+        <Caret Line="94" Column="37" TopLine="81"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

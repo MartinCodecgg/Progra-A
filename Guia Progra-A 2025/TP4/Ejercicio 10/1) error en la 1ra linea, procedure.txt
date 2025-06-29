@@ -1,0 +1,5 @@
+1) error en la 1ra linea, procedureAAA , debe ser procedure AAA
+2) En la 4ta linea varN , debe ser var N
+3) DDD(N, M) error aquí ya que estoy pasando M que es real y en la función se espera un 2do parámetro del tipo integer
+4)
+Y debe haber alguno mas pero no lo estoy viendo 

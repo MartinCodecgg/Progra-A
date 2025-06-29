@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="63" Y="30"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="43" Column="44" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="17" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="4" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="29" Column="38" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="28" Column="33" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="38" Column="11" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="51" Column="29" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="41" Column="23" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="7" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="48" Column="34" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="11" Column="10" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="21" Column="17" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="7" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="51" Column="40" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="50" Column="39" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="48" Column="28" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="17" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="20" Column="23" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="45" Column="33" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc7.lpr"/>
+        <Caret Line="39" Column="27" TopLine="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

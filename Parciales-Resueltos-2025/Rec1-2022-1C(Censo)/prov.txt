@@ -1,0 +1,4 @@
+BA Buenos Aires                  C 4
+CH Chubut                        S 2
+SC Santa Cruz                    S 3
+CO Cordoba                       C 3

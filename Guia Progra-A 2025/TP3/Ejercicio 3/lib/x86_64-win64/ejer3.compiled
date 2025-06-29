@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\defin\Desktop\Rehaciendo guia Progra\TP3\Ejercicio 3\lib\x86_64-win64&quot; &quot;-FuC:\Users\defin\Desktop\Rehaciendo guia Progra\TP3\Ejercicio 3\&quot; &quot;-FUC:\Users\defin\Desktop\Rehaciendo guia Progra\TP3\Ejercicio 3\lib\x86_64-win64\&quot; &quot;-FEC:\Users\defin\Desktop\Rehaciendo guia Progra\TP3\Ejercicio 3\&quot; &quot;-oC:\Users\defin\Desktop\Rehaciendo guia Progra\TP3\Ejercicio 3\ejer3.exe&quot; ejer3.lpr"/>
+</CONFIG>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="26" Y="20"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\AppData\Local\Temp\cb854730-36e8-40aa-a1f8-5d76d6e812eb_2 recuperatorio 2024[1].zip.2eb\2 cuatrimestre\ej.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="49" Y="56"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\AppData\Local\Temp\372cca85-0ba5-4306-81cb-5b38f7231e72_2 cuatrimestre.zip.2 cuatrimestre.zip\2 cuatrimestre\ej.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="29" Column="31" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="126" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="127" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="128" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="129" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="130" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="26" Column="39" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="27" Column="27" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="124" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="125" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="126" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="127" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="128" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="27" Column="27" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="125" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="126" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="127" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="128" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="129" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="27" Column="25" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="124" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="125" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="126" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="127" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="128" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="26" Column="39" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="27" Column="48" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="14" Column="13" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="27" Column="32" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="12" Column="6" TopLine="11"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

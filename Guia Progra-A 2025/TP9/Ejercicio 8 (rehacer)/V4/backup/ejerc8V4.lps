@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc8V4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="261"/>
+        <CursorPos X="53" Y="272"/>
+        <FoldState Value=" TCXF61 T3i70T2 PjSiJ0Q"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="ejerc8V4.lpr"/>
+        <Caret Line="278" Column="10" TopLine="237"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V4.lpr"/>
+        <Caret Line="200" Column="89" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V4.lpr"/>
+        <Caret Line="205" Column="31" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V4.lpr"/>
+        <Caret Line="212" Column="33" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc8V4.lpr"/>
+        <Caret Line="220" Column="50" TopLine="207"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

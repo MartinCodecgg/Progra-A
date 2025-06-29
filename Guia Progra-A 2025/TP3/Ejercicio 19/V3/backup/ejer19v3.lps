@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejer19v3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ejer19V3"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="8"/>
+        <CursorPos X="72" Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="10" Column="22" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="7" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="8" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="9" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="11" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="13" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="13" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="13" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="13" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="16" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="18" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="20" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejer19v3.lpr"/>
+        <Caret Line="26" Column="46" TopLine="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

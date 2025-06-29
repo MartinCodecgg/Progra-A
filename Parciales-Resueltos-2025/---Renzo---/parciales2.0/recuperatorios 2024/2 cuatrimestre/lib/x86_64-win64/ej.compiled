@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1513316847"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\ASUS\Desktop\trabajos\parciales2.0\parciales1\recuperatorio 2024\2 cuatrimestre\lib\x86_64-win64&quot; &quot;-FuC:\Users\ASUS\Desktop\trabajos\parciales2.0\parciales1\recuperatorio 2024\2 cuatrimestre\&quot; &quot;-FUC:\Users\ASUS\Desktop\trabajos\parciales2.0\parciales1\recuperatorio 2024\2 cuatrimestre\lib\x86_64-win64\&quot; &quot;-FEC:\Users\ASUS\Desktop\trabajos\parciales2.0\parciales1\recuperatorio 2024\2 cuatrimestre\&quot; &quot;-oC:\Users\ASUS\Desktop\trabajos\parciales2.0\parciales1\recuperatorio 2024\2 cuatrimestre\ej.exe&quot; ej.lpr"/>
+</CONFIG>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej1b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="20"/>
+        <CursorPos X="35" Y="30"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="124" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="125" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="126" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="127" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="128" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="129" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="130" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="123" Column="131" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="132" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="134" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="124" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="125" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="126" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="127" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="128" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="129" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="130" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="131" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="132" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="122" Column="31" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="102" Column="37" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="84" Column="32" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="76" Column="15" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="98" Column="33" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="22" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="18" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="13" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="16" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="14" Column="22" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1b.lpr"/>
+        <Caret Line="107" Column="20" TopLine="73"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="project1.lpr"/>
+        <Line Value="62"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

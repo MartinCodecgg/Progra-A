@@ -1,0 +1,4 @@
+aaa 123 S
+bbb 456 N
+ccc 789 S
+aaa 124 S

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="parcial.Ipi.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="parcial"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="47"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="parcial.Ipi.lpr"/>
+        <Caret Line="45" Column="37" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial.Ipi.lpr"/>
+        <Caret Line="39" Column="61" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial.Ipi.lpr"/>
+        <Caret Line="41" Column="23" TopLine="37"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

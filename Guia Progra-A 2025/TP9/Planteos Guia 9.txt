@@ -1,0 +1,89 @@
+1. Dado que Destino.dat viene desordenado, me genero un vector con los códigos de destinos, Voy leyendo con un while el 1er archivo
+Para cada registro del primer archivo, busco en el vector generado y sumo el contador
+
+a) Mientras con una variable voy acumulando el peso total de los paquetes, al final divido este acumulado por filesize(ARCHIVOPAQUETES) y obtendré el promedio buscado
+b)Con otra variable acumulo el monto asegurado
+c) Una vez termine de procesar el 1er archivo, con otro procedimiento muestro los códigos con el acumulado de cada uno, seria un vector de registros o dos vectores paralelos a usar
+
+
+2. La clave primaria y campo de secuencia no tiene validez al poder repetirse el 2do archivo
+Debo generarme un vector con los números de tarjetas del primer archivo, un vector con índice con significado, que contenga los números
+Luego voy leyendo el 2do archivo, y por cada tarjeta, hago la búsqueda en el vector, y veo si la operación no supera el tope, si supera, guardo en el 2do archivo de errores
+Si no supera, guardo en el archivo temporal el monto actualizado, usando al posición obtenida y accediendo con seek al archivo TARJETAS
+
+
+3.  Como no hay mas de 50 elementos en el 1er archivo, es valido y factible generar un vector con los datos necesarios del 1er archivo
+Me genero un vector con código de excursion, precio base y precio de la comida, cantidad de boletos, cantidad de comida y monto total
+Ademas no es campo de secuencia es decir esta desordenado
+
+Voy leyendo el 2do archivo, buscando en el vector generado, y aumento contadores y acumulo el monto en el vector
+Terminado de recorrer el 2do archivo
+Muestro en otro procedimiento el vector generado
+
+
+4. Es un típico corte de 2do nivel, para el la cantidad total y el porcentaje de prendas negras uso variables contadoras
+
+
+5. Es un enfrentamiento pero sin generar o actualizar un 3er archivo, es enfretamiento ya que ambos archivos están ordenados por el mismo campo de secuencia
+No se debe usar ni función ni búsqueda ni generar un vector
+Voy haciendo el algoritmo de enfrentamiento, 
+Siendo A1 el archivo de inscriptos y A2 el archivo de alumnos
+Podria darse que A1<A2, un alumno que esta inscripto pero que no esta en alumnos.dat, seria un error. Pero ignoro esto
+Si A1=A2 debo validar que cumpla los requisitos sino mostrarlo(listarlo)
+Si A1>A2 , vendría a ser el caso de alta pero para este ejercicio, también seria error y lo ignoro
+
+
+6. Nuevamente un enfrentamiento, un empleado puede no vender nada en el dia(escribo en el temp como viene en el original), o puede ser su primera venta en el mes(alta), o modificacion si esta en ambos. Asi siguiendo el algoritmo de enfrentamiento
+
+
+8. Nuevamente es un enfrentamiento
+Al enfrentar ambos archivos pueden darse los casos, siendo A1 el archivo de stock y A2 el de pedidos
+El pedido se da cuando A1=A2, 
+Si A1<A2, no es lo que busco, lo paso, avanzo en A1
+Si A1=A2, debo ver si hay el stock suficiente, si STOCK-PEDIDO>=0 se actualiza en A1temp
+Si STOCK-PEDIDO<0 se pone un 0 en A1temp y se notificaba la cantidad falto de stock para cumplir el pedido
+Si A1>A2, significa que lo que busco, no se encuentra en el stock, direcamente informo la cantidad del pedido
+Tanto para código, talle y color se repite el mismo algoritmo por lo que conviene hacer una función que devuevla que accion se debe tomar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

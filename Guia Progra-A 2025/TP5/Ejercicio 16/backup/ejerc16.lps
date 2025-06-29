@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc16.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="71" Y="10"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="27" Column="74" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="8" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="48" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="11" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="8" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="11" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="12" Column="6" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="15" Column="40" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="23" Column="19" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="21" Column="20" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="40" Column="12" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc16.lpr"/>
+        <Caret Line="51" Column="28" TopLine="32"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

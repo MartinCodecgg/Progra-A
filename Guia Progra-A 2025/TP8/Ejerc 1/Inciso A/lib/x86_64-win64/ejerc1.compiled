@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\defin\Documents\Archivos Github\Guia Progra-A 2025\TP8\Ejerc 1\Inciso A\lib\x86_64-win64&quot; &quot;-FuC:\Users\defin\Documents\Archivos Github\Guia Progra-A 2025\TP8\Ejerc 1\Inciso A\&quot; &quot;-FUC:\Users\defin\Documents\Archivos Github\Guia Progra-A 2025\TP8\Ejerc 1\Inciso A\lib\x86_64-win64\&quot; &quot;-FEC:\Users\defin\Documents\Archivos Github\Guia Progra-A 2025\TP8\Ejerc 1\Inciso A\&quot; &quot;-oC:\Users\defin\Documents\Archivos Github\Guia Progra-A 2025\TP8\Ejerc 1\Inciso A\ejerc1.exe&quot; ejerc1.lpr"/>
+</CONFIG>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="8"/>
+        <CursorPos X="110" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="26" Column="29" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="9" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="7" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="21" Column="27" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="23" Column="29" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="18" Column="7" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="21" Column="59" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="33" Column="25" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="32" Column="36" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="26" Column="83" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="10" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc6.lpr"/>
+        <Caret Line="23" Column="29" TopLine="8"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,5 @@
+abcd S 1 2
+bcde L 2 2
+bcde M 2 20
+cdef L 3 1
+wwww S 1 1

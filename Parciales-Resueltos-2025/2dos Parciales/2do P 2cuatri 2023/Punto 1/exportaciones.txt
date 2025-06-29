@@ -1,0 +1,5 @@
+3 trigo     31
+3 maiz      47
+4 trigo     35
+1 soja      20
+3 soja      25
