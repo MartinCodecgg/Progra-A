@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="xd3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="21" Y="24"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="8" Column="61"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="18" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="12" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="16" Column="73"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="18" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="14" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="22" Column="82"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="20" Column="37" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="xd3.lpr"/>
+        <Caret Line="19" Column="141"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
