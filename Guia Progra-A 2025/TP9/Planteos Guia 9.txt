@@ -1,3 +1,8 @@
+Principios:
+1)Los archivos deben recorrerse una sola vez
+2)Acceder a una posición el archivo con seek no es recorrerlo dos veces
+3)Siendo n la dimension del archivo binario o cantidad de componentes, si <=50 aprox. Se debe guardar el archivo en un vector, o vector de registros
+
 1. Dado que Destino.dat viene desordenado, me genero un vector con los códigos de destinos, Voy leyendo con un while el 1er archivo
 Para cada registro del primer archivo, busco en el vector generado y sumo el contador
 
